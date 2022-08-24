@@ -7,4 +7,5 @@ MarkupSafe
 opencv-python
 numpy
 Werkzeug
+Pillow
 opencv-contrib-python
